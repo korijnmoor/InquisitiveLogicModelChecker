@@ -2,7 +2,7 @@
 
 In short, inquisitive logic is a logic framework aimed at incorporating questions and inquisitiveness into 'classical' notions of logic. The model checker is a simple collection of python code which is capable of representing inquisitive logic models and checking whether those models uphold various formal rules of the inquisitive logic framework.
 
-I developed this model checker for inquisitive logic as part of [my bachelor thesis](https://scripties.uba.uva.nl/search?id=720324) for the Artificial Intelligence program at the University of Amsterdam (UvA).
+I developed this model checker for inquisitive logic as part of [my bachelor thesis](https://scripties.uba.uva.nl/search?id=720324) for the Artificial Intelligence (bachelor) program at the University of Amsterdam (UvA).
 
 ## Technologies
 Python 3.x
