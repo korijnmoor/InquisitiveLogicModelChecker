@@ -14,5 +14,5 @@ The model checker is just simply a collection of Python scripts. There is no nee
 When you run main.py you are presented with the command-line interface which you will use to interface with the program. Entering "h" (enter) will print a rudimentary help message, where all the commands you can use are listed.
 
 ## Notes
-Please do be aware that this program is part of my bachelor thesis and is therefore mainly aimed at providing a proof of concept rather than a highly optimised (and especially safe) user experience. In other words use at your own risk (see the [license](../LICENSE) for more information).
+Please do be aware that this program is part of my bachelor thesis and is therefore mainly aimed at providing a proof of concept rather than a highly optimised (and especially safe) user experience. In other words use at your own risk (see the [license](../main/LICENSE) for more information).
 
